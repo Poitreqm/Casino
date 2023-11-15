@@ -6,9 +6,11 @@ Wheel of Fortune:
 
 ![bloggif_6555170de933b](https://github.com/Poitreqm/Casino/assets/23151017/9594714e-f0b4-4ccb-b3dd-692d729cff20)
 
-
+Roulette:
 
 ![bloggif_655518cccb88b](https://github.com/Poitreqm/Casino/assets/23151017/a9c6738d-ddb0-49cd-8aef-99e5efd86f5c)
+
+Blackjack:
 
 ![bloggif_65551b0ae67c8](https://github.com/Poitreqm/Casino/assets/23151017/69325500-ed36-4f7b-bba9-408c06dd49d4)
 
